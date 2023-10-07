@@ -58,6 +58,6 @@ This is a simple web application built with Flask that allows you to convert tex
 Feel free to contribute to this project by submitting issues or pull requests.
 ```
 
-Replace `yourusername/yourrepository` with the actual GitHub repository URL where your code is hosted. This README provides users with an overview of the project, instructions for setting it up, and details about the directory structure and requirements.
+Replace `sivasarans/TXT_2_PDF` with the actual GitHub repository URL where your code is hosted. This README provides users with an overview of the project, instructions for setting it up, and details about the directory structure and requirements.
 
 You can further customize and expand the README to provide more information about your project as needed.
