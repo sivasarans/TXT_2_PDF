@@ -1,0 +1,76 @@
+/* Reset some default styles for body and form elements */
+body, form {
+    padding: 30px 50px 30px 30px;
+}
+
+
+/* Apply a background color and center the form vertically and horizontally */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Style the form container */
+.form-container {
+    background-color: #fff;
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: auto; /* Center the form horizontally */
+}
+
+/* Style the text area input */
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    resize: vertical;
+}
+
+/* Style the submit button */
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Style the submit button on hover */
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/* Style the footer */
+.footer {
+    margin-top: auto; /* Push the footer to the bottom of the page */
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+/* Style the links in the footer */
+.footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Style the footer links on hover */
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* Style the header */
+.header {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
